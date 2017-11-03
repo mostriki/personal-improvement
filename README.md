@@ -1,4 +1,4 @@
-# _Personal Improvement_
+# _Personal Improvement Day_
 
 #### _An independent project to expose areas for improvement within my development and overcome them with deliberate practice, 11.03.2017_
 
@@ -10,7 +10,22 @@ _..._
 
 ### Deficiencies
 
-*
+* Writing logic
+* Breaking logic problems down
+* Applying problem solving principals
+* Job interview preparation
+* Maintaining composure in front of an audience
+* Speaking confidently about my solutions
+* Core technical knowledge
+* Understanding industry related jargon
+* Applying OOP at the onset of a build
+* Managing complexity
+* Planning for scalability
+* Giving problems a fair shot before asking for help
+* Asking for help
+* Typing (WPM) and using keyboard shortcuts
+* Studying strategically
+* Standardizing or automating redundancies
 
 ### Feedback
 
