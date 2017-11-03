@@ -1,4 +1,4 @@
-# _Personal Improvement Day_
+# _Whiteboard Wednesday_
 
 #### _An independent project to expose areas for improvement within my development and overcome them with deliberate practice, 11.03.2017_
 
@@ -6,7 +6,7 @@
 
 ### Description
 
-_..._
+_Today I set out to develop curriculum for a weekly meetup and whiteboarding session. The goal is to help my classmates improve their chances at finding jobs after code school. I also want to improve some of my own deficiencies, like writing logic, speaking confidently about my code, increasing my typing speed, and memorizing common industry terms and jargon. I started out by researching and collecting important terms and concepts that we had covered in class. I took extra care to type out their names and definitions manually in order to increase my own comprehension and typing proficiency. I also spent the morning reading articles and blog posts on the subject of interviews and technical questions. Unfortunatly I was not able to complete the curriculum by 5 p.m., so I will be spending my weekend on it. Our first Whiteboard Wednesday will be on November 8th. _
 
 ### Deficiencies
 
@@ -27,15 +27,10 @@ _..._
 * Studying strategically
 * Standardizing or automating redundancies
 
-### Feedback
-
-* [Please also include feedback on what you thought of this exercise when you submit your repo. There are still objectives to pass.]
-
 ### Resources Used
 
 1. _[https://www.learnhowtoprogram.com/courses](https://www.learnhowtoprogram.com/courses)_
-1.  
-
+1. _[https://skillcrush.com/2016/03/29/rock-your-next-whiteboard-test/](https://skillcrush.com/2016/03/29/rock-your-next-whiteboard-test/)_
 
 ### Setup/Installation Requirements
 
