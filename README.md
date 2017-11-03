@@ -39,15 +39,15 @@ _..._
 
 ### Setup/Installation Requirements
 
-1. _`$ git clone` [https://github.com/mostriki/]()_
+1. _`$ git clone` [https://github.com/mostriki/personal-improvement-day](https://github.com/mostriki/personal-improvement-day)_
 
-1. _`$ cd portland-zoo/`_
+1. _`$ cd personal-improvement-day/`_
 
 
 ### Support and contact details
 
-_If you have any updates or suggestions please contact [Riki Montgomery] (mostriki820@gmail.com) or make a contribution to my repository._
+_If you have any updates or suggestions please contact [me] (mostriki820@gmail.com) or make a contribution to my repository._
 
 ### License
 
-_The Animal List application is licensed under the terms of the General Public License (GPL) open source license and is available for free._
+_This repository is licensed under the terms of the General Public License (GPL) open source license and is available for free._
